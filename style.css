@@ -1,0 +1,216 @@
+h1 {
+	color: #3e3333;
+	font-family: Calibri;
+	font-size: 55px;
+}
+h2 {
+	color: #c1cdcd;
+	font-family: Calibri;
+	font-size: 55px;
+	left: 25px;
+	position: relative;
+	text-shadow: 3px 3px #762042;
+	width: 550px;
+}
+h3 {
+	font-family: Calibri;
+	text-align: justify;
+}
+#navbar li {
+	border: 2px solid #c1cdcd;
+	border-radius: 5px;
+	color: #D1D1D1;
+	display: block;
+	font-family: Calibri, sans-serif;
+	font-size: 20px;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+}
+#navbar {
+	font-family: Calibri;
+	margin-left: -20px;
+	margin-top: -15px;
+	position: relative;
+	top: -100px;
+	width: 400px;
+}
+header {
+	position: relative;
+}
+a {
+	color: #D1D1D1;
+	text-decoration: none;
+}
+#textfield {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: 2px solid #c1cdcd;
+	border-radius: 5px;
+	color: #212121;
+	font-family: Calibri;
+	font-size: 17px;
+	left: 450px;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	text-align: justify;
+	top: -350px;
+	width: 1000px;
+}
+#header {
+	font-weight: bold;
+}
+img {
+	height: 128px;
+	left: 500px;
+	position: relative;
+	top: -140px;
+	width: 128px;
+}
+#head1 {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: 2px solid #c1cdcd;
+	border-radius: 5px;
+	color: #212121;
+	font-family: Calibri;
+	font-size: 20px;
+	height: 30px;
+	left: 0px;
+	position: relative;
+	text-align: center;
+	top: px;
+	width: 1000px;
+}
+table {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: 2px solid #c1cdcd;
+	border-radius: 5px;
+	color: #212121;
+	font-family: Calibri;
+	left: 0px;
+	position: relative;
+	text-align: center;
+	top: 0px;
+	width: 1000px;
+}
+.tablist {
+	list-style-type: none;
+	padding-left: 0;
+}
+object {
+	left: 300px;
+	position: relative;
+	top: 0px;
+}
+#head2 {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: 2px solid #c1cdcd;
+	border-radius: 5px;
+	color: #212121;
+	font-family: Calibri;
+	font-size: 20px;
+	height: 30px;
+	left: 200px;
+	position: relative;
+	text-align: center;
+	top: 0px;
+	width: 650px;
+}
+#exception {
+	left: 250px;
+	position: relative;
+	top: 0px;
+}
+footer {
+	clear: both;
+	color: #D1D1D1;
+	font-family: Calibri;
+	font-size: px;
+	height: 3em;
+	margin-top: -3em;
+	position: relative;
+}
+.gallery {
+	border-radius: 10px;
+	height: auto;
+	left: 250px;
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+	top: 0px;
+	width: auto;
+}
+.gallery2 {
+	border-radius: 10px;
+	height: auto;
+	left: 350px;
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+	top: 0px;
+	width: auto;
+}
+.gallery3 {
+	border-radius: 10px;
+	height: auto;
+	left: 300px;
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+	top: 0px;
+	width: auto;
+}
+
+.btt_gallery img {
+	display: none;
+	border: 2px solid #c1cdcd;
+	border-radius: 10px;
+	padding: 5px;
+	position: relative;
+	top: -1650px;
+	left: -450px;
+}
+
+#btt_next {
+	border: 2px solid #c1cdcd;
+	border-radius: 10px;
+	padding: 5px;
+	position: relative;
+	top: -1275px;
+	left: -325px;
+}
+
+#btt_prev {
+	border: 2px solid #c1cdcd;
+	border-radius: 10px;
+	padding: 5px;
+	position: relative;
+	top: -1275px;
+	left: -350px;
+}
+
+.pht {
+	display: block;
+	width: 400px;
+	height: 300px;
+}
+#shoto {
+	height: 800px;
+	width: auto;
+	position: absolute;
+	top: 0px;
+	left: 1450px;
+}
+legend {
+	color: #c1cdcd;
+	font-family: Calibri;
+}
+#dolacz_do_nas {
+
+	width: 400px;
+	top: 0;
+}
+.dolacz {
+	position: absolute;
+	top: 1000px;	width: 400px;
+}
+fieldset{
+	border-radius: 10px;}
